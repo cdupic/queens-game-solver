@@ -21,7 +21,7 @@ Let's consider the following example grid:
 <table>
 <tr>
 <td width="50%">
-<img src="queens-game-grid.png" alt="Initial grid" style="width:100%;"/>
+<img src="src/queens-game-grid.png" alt="Initial grid" style="width:100%;"/>
 </td>
 <td width="50%">
 <img src="queens-game-solution.png" alt="Solution grid" style="width:100%;"/>
