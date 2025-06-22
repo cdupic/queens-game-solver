@@ -21,7 +21,7 @@ Let's consider the following example grid:
 <table>
 <tr>
 <td width="50%">
-<img src="src/queens-game-grid.png" alt="Initial grid" style="width:100%;"/>
+<img src="queens-game-grid.png" alt="Initial grid" style="width:100%;"/>
 </td>
 <td width="50%">
 <img src="queens-game-solution.png" alt="Solution grid" style="width:100%;"/>
@@ -47,4 +47,15 @@ The implementation assumes that the game is **"logically solvable"**, meaning no
 
 
 ## Code 
+
+The code is divided in two parts. First, we need to get the grid and the colors in each cell in order to be able to detect areas. This part of the project is done by grid_acquisition.py.
+
+Then, we need to do the logical operations on that grid, this is done in grid_solver.py
+
+To run the program, execute main.py with the image path (screenshoot of the grid).
+
+
+
+
+
 
